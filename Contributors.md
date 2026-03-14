@@ -1,4 +1,5 @@
 # Contributors
+- [Priyanshu Sinha] (https://github.com/Priyanshu359)
 - [Ashka Pathak](https://github.com/AshkaPathak)
 - [Vadim Cebanu](https://github.com/vadim-cebanu)
 - [skntrl] (https://github.com/skntrl)
